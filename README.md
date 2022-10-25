@@ -1,16 +1,16 @@
-# Wheather App
+# Weather App
 
 ## About the app
 
-In this wheather app you can see the current wheather of your location and also you can search the location based on your interest.
-You can also see the wheather for entire week.
+In this weather app you can see the current weather of your location and also you can search the location based on your interest.
+You can also see the weather for entire week.
 
 ## Features implemented
 
-- Current location wheather report
+- Current location weather report
 - Search your required location
-- Weekly wheather report
-- Daily wheather report
+- Weekly weather report
+- Daily weather report
 - Google map based on your location
 
 ## Tech-Stack used
