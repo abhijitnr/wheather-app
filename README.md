@@ -19,6 +19,10 @@ You can also see the wheather for entire week.
 - CSS3
 - JavaScript ( ES6 )
 
+## Live app link
+
+https://weather-app-by-abhijit.netlify.app/
+
 ## App overview
 
 ![wheather](wheather.PNG)
